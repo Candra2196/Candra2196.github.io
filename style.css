@@ -1,0 +1,106 @@
+section {
+  padding-top: 3rem;
+}
+
+body {
+  background-image: url(image/Elsa/back.jpg);
+  background-attachment: fixed;
+}
+
+#jumbotron .p {
+  font-weight: 100px;
+}
+
+h1 {
+  font-family: ravie;
+  margin-top: 20px;
+}
+
+.produk img {
+  text-align: justify;
+}
+
+h2 {
+  text-align: center;
+  font-size: 40px;
+  margin-top: 10px;
+}
+
+h3 {
+  font-size: 30px;
+  border: 2px;
+  background: deeppink;
+  border-radius: 10px;
+  height: max-content;
+  width: max-content;
+  margin-top: 20px;
+}
+
+h4 {
+  font-size: 30px;
+  background: deeppink;
+  border-radius: 10px;
+  height: max-content;
+  width: max-content;
+  margin-top: 20px;
+}
+
+h5 {
+  font-size: 30px;
+  background: deeppink;
+  border-radius: 10px;
+  height: max-content;
+  width: max-content;
+  margin-top: 20px;
+}
+
+#Testimoni {
+  margin-top: 50px;
+}
+
+img {
+  margin: 10px 10px 10px 0px;
+}
+
+p {
+  font-size: 25px;
+  margin: 20px 10px 10px 0px;
+}
+
+h6 {
+  text-align: center;
+  font-size: 40px;
+}
+
+h7 {
+  text-align: center;
+  font-size: 40px;
+}
+
+#Contact {
+  text-align: center;
+  height: 500px;
+  margin-top: 20px;
+}
+
+.instagram {
+  font-size: 80px;
+}
+
+.instagram p {
+  margin-top: 50px;
+  margin-bottom: -10px;
+}
+
+.whatapps {
+  font-size: 80px;
+}
+
+.whatapps p {
+  margin-top: 30px;
+  margin-bottom: -10px;
+}
+
+#Contact p {
+  text-align: center;
+}
