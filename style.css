@@ -17,11 +17,11 @@ section {
 .jumbotron p {
   font: weight 100px;
   font-family: ravie;
-  text-shadow: 5px 5px 10px silver;
 }
 
 h1 {
   font-family: ravie;
+  font-weight: bold;
   margin-top: 20px;
 }
 
