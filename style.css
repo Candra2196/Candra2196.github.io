@@ -14,13 +14,18 @@ section {
   margin-top: -50px;
 }
 
+body p {
+  font-family: "Berkshire Swash", cursive;
+  font-weight: bold;
+  font-size: 30px;
+}
+
 .jumbotron p {
   font: weight 100px;
-  font-family: ravie;
 }
 
 h1 {
-  font-family: ravie;
+  font-family: "Titan One", cursive;
   font-weight: bold;
   margin-top: 20px;
 }
@@ -35,9 +40,8 @@ h1 {
   width: 100%;
 }
 
-#Produk .container img {
-  align-items: flex-start;
-  text-align: justify;
+#Produk img {
+  display: flexbox;
 }
 
 #Produk svg {
@@ -48,7 +52,7 @@ h2 {
   text-align: center;
   font-size: 40px;
   margin-top: 10px;
-  font-family: ravie;
+  font-family: "Titan One", cursive;
   text-shadow: 5px 5px 10px white;
 }
 
@@ -96,14 +100,14 @@ p {
 h6 {
   text-align: center;
   font-size: 40px;
-  font-family: ravie;
+  font-family: "Titan One", cursive;
   text-shadow: 5px 5px 10px silver;
 }
 
 h7 {
   text-align: center;
   font-size: 40px;
-  font-family: ravie;
+  font-family: "Titan One", cursive;
   text-shadow: 5px 5px 10px white;
 }
 
