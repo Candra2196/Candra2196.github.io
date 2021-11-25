@@ -18,7 +18,6 @@ body p {
   font-family: "Berkshire Swash", cursive;
   font-weight: bold;
   font-size: 30px;
-  color: purple;
 }
 
 .jumbotron p {
@@ -96,6 +95,7 @@ img {
 p {
   font-size: 25px;
   margin: 20px 10px 10px 0px;
+  color: black;
 }
 
 h6 {
