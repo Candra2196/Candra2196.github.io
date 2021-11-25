@@ -18,6 +18,7 @@ body p {
   font-family: "Berkshire Swash", cursive;
   font-weight: bold;
   font-size: 30px;
+  color: black;
 }
 
 .jumbotron p {
@@ -28,6 +29,7 @@ h1 {
   font-family: "Titan One", cursive;
   font-weight: bold;
   margin-top: 20px;
+  color: black;
 }
 
 #Produk {
@@ -41,7 +43,6 @@ h1 {
 }
 
 #Produk img {
-  display: flexbox;
 }
 
 #Produk svg {
@@ -53,7 +54,7 @@ h2 {
   font-size: 40px;
   margin-top: 10px;
   font-family: "Titan One", cursive;
-  text-shadow: 5px 5px 10px white;
+  color: black;
 }
 
 h3 {
@@ -101,14 +102,14 @@ h6 {
   text-align: center;
   font-size: 40px;
   font-family: "Titan One", cursive;
-  text-shadow: 5px 5px 10px silver;
+  color: black;
 }
 
 h7 {
   text-align: center;
   font-size: 40px;
   font-family: "Titan One", cursive;
-  text-shadow: 5px 5px 10px white;
+  color: black;
 }
 
 #Contact {
